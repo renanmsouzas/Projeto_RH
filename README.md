@@ -1,2 +1,2 @@
 # Projeto_RH
- Estou tentando desenvolver um sistema de RH, porém é apenas para me testar, aplicar funções para treinar
+ Estou treinando funções, então resolvi tentar desenvolver um sistema de RH
